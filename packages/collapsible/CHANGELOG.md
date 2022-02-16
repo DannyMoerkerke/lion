@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.6.7
+
+### Patch Changes
+
+- 3c9acaa7: Moved binding to constructor to be be able to remove the event listener in disconnectedCallback
+
 ## 0.6.6
 
 ### Patch Changes
